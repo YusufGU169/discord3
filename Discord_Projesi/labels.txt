@@ -1,0 +1,4 @@
+0 Dağ
+1 Ova / Çayır
+2 Piknik Alanları
+3 Orman
